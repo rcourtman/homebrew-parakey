@@ -4,7 +4,7 @@ cask "parakey" do
 
   url "https://github.com/rcourtman/parakey/releases/download/v#{version}/Parakey.zip"
   name "Parakey"
-  desc "Push-to-talk dictation for macOS Apple Silicon"
+  desc "Push-to-talk dictation, transcribed locally on the Mac's GPU"
   homepage "https://github.com/rcourtman/parakey"
 
   depends_on macos: ">= :ventura"
