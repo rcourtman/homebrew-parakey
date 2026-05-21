@@ -1,6 +1,6 @@
 cask "parakey" do
-  version "0.2.10"
-  sha256 "42504d6cc11cdbcbd9a3071cfddb22050700fdc3862d36062fedd208f484dd92"
+  version "0.2.11"
+  sha256 "15c0360124ef98bc0abdce24ba8bf20a4826637283db7044e94a1a0e4fbc6541"
 
   url "https://github.com/rcourtman/parakey/releases/download/v#{version}/Parakey.zip"
   name "Parakey"
