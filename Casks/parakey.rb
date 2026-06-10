@@ -7,7 +7,7 @@ cask "parakey" do
   desc "Push-to-talk dictation with on-device speech recognition"
   homepage "https://github.com/rcourtman/parakey"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   depends_on arch: :arm64
 
   app "Parakey.app"
